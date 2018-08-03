@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://ivanjiang.cn/"/>
   <updated>2018-08-03T14:55:39.472Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://ivanjiang.cn/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hello</title>
-    <link href="http://yoursite.com/2018/08/03/hello/"/>
-    <id>http://yoursite.com/2018/08/03/hello/</id>
+    <link href="http://ivanjiang.cn/2018/08/03/hello/"/>
+    <id>http://ivanjiang.cn/2018/08/03/hello/</id>
     <published>2018-08-03T14:53:49.000Z</published>
     <updated>2018-08-03T14:55:39.472Z</updated>
     
