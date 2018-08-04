@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>酱香牛肉</title>
   
-  
+  <subtitle>歪？我超喜欢你的</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ivanjiang.cn/"/>
-  <updated>2018-08-04T02:20:39.319Z</updated>
+  <updated>2018-08-04T02:40:20.183Z</updated>
   <id>http://ivanjiang.cn/</id>
   
   <author>
@@ -17,28 +17,16 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello</title>
-    <link href="http://ivanjiang.cn/2018/08/03/hello/"/>
-    <id>http://ivanjiang.cn/2018/08/03/hello/</id>
-    <published>2018-08-03T14:53:49.000Z</published>
-    <updated>2018-08-04T02:20:39.319Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="酱酱"><a href="#酱酱" class="headerlink" title="酱酱~"></a>酱酱~</h2><img src="/2018/08/03/hello/IMG_3284.JPG"> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=863988170&auto=1&height=66"></iframe>]]></content>
+    <title>组合数</title>
+    <link href="http://ivanjiang.cn/2018/08/04/%E7%BB%84%E5%90%88%E6%95%B0/"/>
+    <id>http://ivanjiang.cn/2018/08/04/组合数/</id>
+    <published>2018-08-04T02:40:20.000Z</published>
+    <updated>2018-08-04T02:40:20.183Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;h2 id=&quot;酱酱&quot;&gt;&lt;a href=&quot;#酱酱&quot; class=&quot;headerlink&quot; title=&quot;酱酱~&quot;&gt;&lt;/a&gt;酱酱~&lt;/h2&gt;&lt;img src=&quot;/2018/08/03/hello/IMG_3284.JPG&quot;&gt; 
-&lt;iframe frameborder=&quot;no&quot; bo
-      
-    
     </summary>
     
-      <category term="me" scheme="http://ivanjiang.cn/categories/me/"/>
-    
-    
-      <category term="me" scheme="http://ivanjiang.cn/tags/me/"/>
     
   </entry>
   
