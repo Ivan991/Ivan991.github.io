@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>酱香牛肉</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ivanjiang.cn/"/>
-  <updated>2018-08-04T01:51:57.733Z</updated>
+  <updated>2018-08-04T02:20:39.319Z</updated>
   <id>http://ivanjiang.cn/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>ivan</name>
     
   </author>
   
@@ -21,20 +21,24 @@
     <link href="http://ivanjiang.cn/2018/08/03/hello/"/>
     <id>http://ivanjiang.cn/2018/08/03/hello/</id>
     <published>2018-08-03T14:53:49.000Z</published>
-    <updated>2018-08-04T01:51:57.733Z</updated>
+    <updated>2018-08-04T02:20:39.319Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="酱酱"><a href="#酱酱" class="headerlink" title="酱酱~"></a>酱酱~</h2><img src="/2018/08/03/hello/IMG_3284.JPG" title="这是一个新的博客的图片的说明"> <p><img src="/2018/08/03/hello/../images/IMG_5208.JPG" alt="Alt text"> </p>]]></content>
+    <content type="html"><![CDATA[<h2 id="酱酱"><a href="#酱酱" class="headerlink" title="酱酱~"></a>酱酱~</h2><img src="/2018/08/03/hello/IMG_3284.JPG"> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=863988170&auto=1&height=66"></iframe>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;酱酱&quot;&gt;&lt;a href=&quot;#酱酱&quot; class=&quot;headerlink&quot; title=&quot;酱酱~&quot;&gt;&lt;/a&gt;酱酱~&lt;/h2&gt;&lt;img src=&quot;/2018/08/03/hello/IMG_3284.JPG&quot; title=&quot;这是一个新的博客的图片的说明&quot;&gt; 
-&lt;p&gt;&lt;
+        &lt;h2 id=&quot;酱酱&quot;&gt;&lt;a href=&quot;#酱酱&quot; class=&quot;headerlink&quot; title=&quot;酱酱~&quot;&gt;&lt;/a&gt;酱酱~&lt;/h2&gt;&lt;img src=&quot;/2018/08/03/hello/IMG_3284.JPG&quot;&gt; 
+&lt;iframe frameborder=&quot;no&quot; bo
       
     
     </summary>
     
+      <category term="me" scheme="http://ivanjiang.cn/categories/me/"/>
+    
+    
+      <category term="me" scheme="http://ivanjiang.cn/tags/me/"/>
     
   </entry>
   
