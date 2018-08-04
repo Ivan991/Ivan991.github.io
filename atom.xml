@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ivanjiang.cn/"/>
-  <updated>2018-08-03T15:23:47.692Z</updated>
+  <updated>2018-08-04T01:51:57.733Z</updated>
   <id>http://ivanjiang.cn/</id>
   
   <author>
@@ -21,15 +21,16 @@
     <link href="http://ivanjiang.cn/2018/08/03/hello/"/>
     <id>http://ivanjiang.cn/2018/08/03/hello/</id>
     <published>2018-08-03T14:53:49.000Z</published>
-    <updated>2018-08-03T15:23:47.692Z</updated>
+    <updated>2018-08-04T01:51:57.733Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="酱酱"><a href="#酱酱" class="headerlink" title="酱酱~"></a>酱酱~</h2><img src="/2018/08/03/hello/IMG_3284.JPG" title="这是一个新的博客的图片的说明"> ]]></content>
+    <content type="html"><![CDATA[<h2 id="酱酱"><a href="#酱酱" class="headerlink" title="酱酱~"></a>酱酱~</h2><img src="/2018/08/03/hello/IMG_3284.JPG" title="这是一个新的博客的图片的说明"> <p><img src="/2018/08/03/hello/../images/IMG_5208.JPG" alt="Alt text"> </p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;h2 id=&quot;酱酱&quot;&gt;&lt;a href=&quot;#酱酱&quot; class=&quot;headerlink&quot; title=&quot;酱酱~&quot;&gt;&lt;/a&gt;酱酱~&lt;/h2&gt;&lt;img src=&quot;/2018/08/03/hello/IMG_3284.JPG&quot; title=&quot;这是一个新的博客的图片的说明&quot;&gt; 
+&lt;p&gt;&lt;
       
     
     </summary>
